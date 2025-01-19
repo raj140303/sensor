@@ -16,6 +16,8 @@ setup(
      version="0.0.1" , 
      author="RajGupta1433" ,
      author_email="manojkumargupta2711@gmail.com" , 
+     author="raj140303" ,
+     author_email="=ayush091003@gmail.com" , 
      install_requirements=get_requirements("requirements.txt") , 
      packages=find_packages()
 )
